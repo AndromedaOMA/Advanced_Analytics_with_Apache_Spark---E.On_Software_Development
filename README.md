@@ -55,9 +55,9 @@ RO:
  
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [laboratory One]() | TO DO |
-| [laboratory Two]() | TO DO |
-| [laboratory Three]() | TO DO |
-| [laboratory Four]() | TO DO |
+| [Laboratory 1]() | TO DO |
+| [Laboratory 2]() | TO DO |
+| [Laboratory 3]() | TO DO |
+| [Laboratory 4]() | TO DO |
 | [Final Project]() | TO DO |
 
