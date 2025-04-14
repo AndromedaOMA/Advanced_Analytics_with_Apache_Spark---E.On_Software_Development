@@ -55,7 +55,7 @@ RO:
  
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Laboratory 1](http://nbviewer.ipython.org/github) | TO DO |
+| [Laboratory 1](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_1.ipynb) | TO DO |
 | [Laboratory 2](http://nbviewer.ipython.org/github) | TO DO |
 | [Laboratory 3](http://nbviewer.ipython.org/github) | TO DO |
 | [Laboratory 4](http://nbviewer.ipython.org/github) | TO DO |
