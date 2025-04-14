@@ -3,7 +3,8 @@
 
 ## Table Of Content
 * [About The Course](#course)
-  
+* [Phases Of Learning](#learn)
+
 --------------------------------------------------------------------------------
 
 <h1 id="course" align="left">About The Course:</h1>
@@ -46,5 +47,17 @@ RO:
     
 - Vizualizarea datelor și rezultatele acestora.
 
-  * [Table Of Content](#table-of-content)
+* [Table Of Content](#table-of-content)
+
+---
+
+<h1 id="learn" align="left">Phases Of Learning:</h1>
+ 
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [laboratory One]() | TO DO |
+| [laboratory Two]() | TO DO |
+| [laboratory Three]() | TO DO |
+| [laboratory Four]() | TO DO |
+| [Final Project]() | TO DO |
 
