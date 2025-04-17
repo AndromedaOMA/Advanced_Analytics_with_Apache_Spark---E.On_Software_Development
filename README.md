@@ -55,9 +55,9 @@ RO:
  
 | Notebook | Description |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Laboratory_1](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_1.ipynb) | Understanding the basic concepts of working with Data Frames within the PySpark library |
-| [Laboratory_2](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_2.ipynb) | Deepening the methods and (chained) expressions of transformation, filtering and sorting |
-| [Laboratory_3](http://nbviewer.ipython.org/github) | TO DO |
+| [Laboratory_1](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_1.ipynb) | Understanding the basic concepts of working with Data Frames within the PySpark library. |
+| [Laboratory_2](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_2.ipynb) | Deepening the methods and (chained) expressions of transformation, filtering and sorting. |
+| [Laboratory_3](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_3.ipynb) | Deepening the notions of grouping, aggregation and union, respectively data association. Plus an introduction to the MLLib library. |
 | [Laboratory_4](http://nbviewer.ipython.org/github) | TO DO |
 | [Final_Project](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Final_Project.ipynb) | TO DO |
 
