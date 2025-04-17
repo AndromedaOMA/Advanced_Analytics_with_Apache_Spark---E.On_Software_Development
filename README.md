@@ -54,7 +54,7 @@ RO:
 <h1 id="learn" align="left">Phases Of Learning:</h1>
  
 | Notebook | Description |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Laboratory 1](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_1.ipynb) | Understanding the basic concepts of working with Data Frames within the PySpark library |
 | [Laboratory 2](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_2.ipynb) | Deepening the methods and (chained) expressions of transformation, filtering and sorting |
 | [Laboratory 3](http://nbviewer.ipython.org/github) | TO DO |
