@@ -58,8 +58,8 @@ RO:
 | [Laboratory_1](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_1.ipynb) | Understanding the basic concepts of working with Data Frames within the PySpark library. |
 | [Laboratory_2](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_2.ipynb) | Deepening the methods and (chained) expressions of transformation, filtering and sorting. |
 | [Laboratory_3](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_3.ipynb) | Deepening the notions of grouping, aggregation and union, respectively data association. Plus an introduction to the MLLib library. |
-| [Laboratory_4](http://nbviewer.ipython.org/github) | TO DO |
-| [Final_Project](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Final_Project.ipynb) | TO DO |
+| [Laboratory_4](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Laboratory_3.ipynb) | Familiarization with Spark Core and its utilities. Plus an extension thepry for MLLib that include the advanced topics like models training. |
+| [Final_Project](http://nbviewer.ipython.org/github/AndromedaOMA/Advanced_Analytics_with_Apache_Spark---E.On_Software_Development/blob/main/Final_Project.ipynb) | This project has as its main goal the analysis of the energy consumption of a group of fictitious consumers, over the course of a year, of an energy company, using the analysis techniques of the Apache Spark engine. |
 
 * [Table Of Content](#table-of-content)
 
