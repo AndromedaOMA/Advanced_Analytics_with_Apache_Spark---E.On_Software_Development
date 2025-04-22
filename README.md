@@ -65,5 +65,4 @@ RO:
 
 ---
 
-Fun Fact:
-
+- ⚡ Fun fact: **Through this project I developed better the subtle concepts of Data Science using PySpark!**
