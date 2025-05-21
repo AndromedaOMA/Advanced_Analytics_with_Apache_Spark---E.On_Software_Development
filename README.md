@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, here we have the Apache Spark laboratories supported by E.On Software Development</h1>
-<h3 align="center">Developed and familiar with PySpark, the Python API for Apache Spark!</h3>
+<h3 align="center">Developed and got familiar with PySpark, the Python API for Apache Spark! <br/> The main objective: Knowledge and effective application of PySpark knowledge for fundamental Data Engineering problems.</h3>
 
 ## Table Of Content
 * [About The Course](#course)
@@ -19,9 +19,9 @@ RO: Acest curs oferă o introducere accesibilă în analiza bazelor de date mari
 
 <h3 align="left">The General Objective:</h3>
 
-EN: Knowledge and effective application of PySpark knowledge for fundamental Data Engineering problems
+EN: Knowledge and effective application of PySpark knowledge for fundamental Data Engineering problems.
 
-RO: Cunoașterea și aplicarea eficientă a cunoștințelor de PySpark pentru probleme fundamentale de Data Engineering
+RO: Cunoașterea și aplicarea eficientă a cunoștințelor de PySpark pentru probleme fundamentale de Data Engineering.
 
 ---
 
